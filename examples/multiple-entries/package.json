@@ -30,7 +30,7 @@
     "express": "4.16.3",
     "font-awesome": "^4.7.0",
     "jquery": "3.3.1",
-    "tether": "1.4.4"
+    "tether": "1.4.7"
   },
   "devDependencies": {
     "autoprefixer": "8.4.1",
